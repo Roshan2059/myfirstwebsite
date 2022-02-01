@@ -6,7 +6,7 @@
 .top-container{
 	width: 100%;
 	text-align: center;
-    background-color: #c6e1e7;
+        background-color: #c6e1e7;
 }
 
 .top-cloud{
@@ -21,7 +21,7 @@
 
 .top-container h1{
 	font-family: 'Sacramento', cursive;
-	font-size: 50px;
+	font-size: 60px;
 	color: #2e3575;
 }
 
