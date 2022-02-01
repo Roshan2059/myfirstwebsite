@@ -1,12 +1,38 @@
-/*  import google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
+	margin: 0;
+	padding: 0;
 }
-#cs{
-    font-size: 30px;
-    font-family: cursive;
+
+.top-container{
+	width: 100%;
+	text-align: center;
+    background-color: #c6e1e7;
+}
+
+.top-cloud{
+	margin-left: 750px;
+	padding-top: 30px;
+}
+
+.bottom-cloud{
+	float: left;
+	margin-left: 200px;
+}
+
+.top-container h1{
+	font-family: 'Sacramento', cursive;
+	font-size: 50px;
+	color: #2e3575;
+}
+
+.top-container p{
+	font-family: 'Aldrich', sans-serif;
+	font-size: 22px;
+	color: #2e3575;
+}
+                                             
+
+.land img{
+	padding: 0;
+	margin: 0;
 }
