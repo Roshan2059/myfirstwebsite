@@ -209,7 +209,7 @@ function Hero() {
                 </div>
                 
                 <img
-                  src="public/profile.jpg"
+                  src="/profile.jpg"
                   alt="Roshan Panta"
                   className="w-full h-full object-cover"
                 />
