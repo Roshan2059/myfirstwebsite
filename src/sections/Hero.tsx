@@ -180,7 +180,7 @@ function Hero() {
                 <span className="absolute inset-0 rounded-lg bg-[#00f0ff]/10 opacity-0 group-hover:opacity-100 transition-opacity" />
               </a>
               <a
-                href="mailto:contact@roshanpanta.com.np"
+                href="mailto:roshan.panta.it@gmail.com"
                 className="hero-social group relative p-3 rounded-lg bg-[#1a1a2e] border border-[#2a2a3e] hover:border-[#00f0ff]/50 transition-all duration-300"
               >
                 <Mail className="w-5 h-5 text-[#a0a0b0] group-hover:text-[#00f0ff] transition-colors" />
@@ -209,7 +209,7 @@ function Hero() {
                 </div>
                 
                 <img
-                  src="/profile.jpg"
+                  src="public/profile.jpg"
                   alt="Roshan Panta"
                   className="w-full h-full object-cover"
                 />
